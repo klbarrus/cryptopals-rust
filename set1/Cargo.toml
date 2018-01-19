@@ -1,0 +1,8 @@
+[package]
+name = "cp16"
+version = "0.1.0"
+authors = ["Karl <karl@eclipse>"]
+
+[dependencies]
+itertools = "0.5.9"
+rust-crypto = "0.2.36"
